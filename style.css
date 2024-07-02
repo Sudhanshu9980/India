@@ -1,0 +1,27 @@
+h1{
+    color:red;
+    background:black;
+}
+h2{
+    color:blue;
+    background-color: red;
+    text-align: center;
+    text-decoration: underline;
+}
+p{
+    font-weight: bold;
+}
+h4{
+    color:blue;
+    text-align: center;
+    text-decoration: line-through;
+
+
+}
+h3{
+    text-align: center;
+    color:black;
+    text-decoration:overline;
+    letter-spacing: 10px;
+
+}
